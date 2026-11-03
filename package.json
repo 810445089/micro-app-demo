@@ -77,7 +77,8 @@
   },
   "homepage": "https://github.com/micro-zoe/micro-app-demo#readme",
   "dependencies": {
-    "@micro-zoe/micro-app": "latest"
+    "@micro-zoe/micro-app": "latest",
+    "bootstrap": "^5.3.8"
   },
   "devDependencies": {
     "cross-env": "~7.0.3",
